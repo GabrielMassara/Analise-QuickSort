@@ -18,7 +18,7 @@ class Principal {
 	
 	public static void main(String[] args) {
 		
-		int[] tamanhos = {100, 1000, 10000};
+		int[] tamanhos = {100, 1000, 10000, 100000, 1000000};
 		int repeticoes = 10;
 		String[] tiposArray = {"ORDENADO", "QUASE ORDENADO", "ALEATÓRIO"};
 		double somaGeralTempo = 0.0;
